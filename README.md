@@ -1,4 +1,4 @@
-# Fordham-research-project-2026-2027
+# Fordham-research-project-2026-2027 with Xavier as main contributor:
 Research projects from 2026 Aug till now
 
 Financial Markets: <br>
