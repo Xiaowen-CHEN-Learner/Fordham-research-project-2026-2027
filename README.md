@@ -7,6 +7,8 @@ Week 2 Projecting the US Federal Funds Rate to Late October <br>
 Week 3 Guide to Investing in China_Sep 2026 <br>
 Week 4 A Discount on the Moat_The Deep Value Case for LVMH <br>
 Week 5 Value Fiserv based on forward PE and EPS with imagination <br>
+Week 6 Fintech ETFs_ARKF FINX FDFF <br>
+Week 7 Final Project_Conservative_Fixed_Income_Solution_2Y_Treasury_Note <br>
 
 Investment with AI: <br>
 Week 1 Prompt Autopsy & Trust But Verify <br>
