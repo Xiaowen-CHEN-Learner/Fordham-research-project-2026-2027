@@ -17,3 +17,7 @@ Week 2 Custom GPT and Investment opportunities in AI stack <br>
 Week 3 Learn Finance through Games <br>
 Week 4 Cameco analysis <br>
 Week 5 Uranium and Nuclear Energy Industry Opportunities <br>
+Week 6 What are the important capabilities in the AI era.pdf <br>
+Week 7 AI startup challenge_InvestorMatch_AI for investment solutions <br>
+Week 8 The Long Play Why Investing is the Ultimate Level-Up _and Gambling is a Glitch <br>
+Week 9 Polishing NEWSROOM.md for Investment Decisions <br>
